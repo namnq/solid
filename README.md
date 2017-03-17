@@ -13,4 +13,4 @@
 ## Task5: 
 * Give some Talent student can download unlimited book, implement it follow  Liskov Substitution Principle.
 ## Task6: 
-* Do some thing with Interface Segregation Principle.
+* Do something with Interface Segregation Principle.
